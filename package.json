@@ -16,8 +16,3 @@
     "three": "^0.185.1"
   }
 }
-import { defineConfig } from 'vite'
-
-export default defineConfig({
-  base: '/Polygon./'
-})
